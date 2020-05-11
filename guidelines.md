@@ -20,8 +20,8 @@ Website admins can issue punishments to actions against our terms, without stati
 - **No advertising.** Only server syncing should allow users to show and advertise their server in our website. Don't include any form of advertisement in your template, including in template names, channel and roles names.
 - **No copycats.** Do not create copies of existing templates to resubmit them in our services. Don't post any content that you don't own. Don't claim other's work as your own.
 - **No spam templates.** Templates filled fully with spam, such as random or duplicated characters in channel or role names in a no-no.
-- **No appropriate usage of tags.** Keep tags on purpose and don't add other unrelated tags in your template description.
+- **No inappropriate usage of tags.** Keep tags on purpose and don't add other unrelated tags in your template description.
 - **No inappropriate content.** Templates promoting a point of view or activities that we don't tolerate, including but not limited to: racism, harassment, suicide, self-harm, blasphemes or hate towards some communities.
 - **No personal information.** Don't include any personal information, such as your name, adress, phone number or credit card information. Don't use templates to dox anyone. Don't use our services with intent to shame or degrade another individual.
 - **No illegal activity.** Templates shouldn't promote any illegal activity, directly or indirectly. Don't help users to create malicious activities.
-- **Nothing against to Discord's Terms of Service and Discord's Community Guidelines is allowed.** Server templates and servers listed in templates' descriptions should comply to these guidelines.
+- **Nothing against to Discord's Terms of Service and Discord's Community Guidelines is allowed.** Server templates and servers listed in descriptions of templates should comply to these rules and guidelines.
