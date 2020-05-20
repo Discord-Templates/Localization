@@ -21,8 +21,8 @@ Website admins can issue punishments to actions against our terms, without stati
 - **No copycats.** Do not create copies of existing templates to resubmit them in our services. Don't post any content that you don't own. Don't claim other's work as your own.
 - **Don't ask for money.** The usage of all templates are 100% free and you agree to not ask for fees or payments to users using them, neither offering payments to make new ones.
 - **No spam templates.** Templates filled fully with spam, such as random or duplicated characters in channel or role names is a no-no.
-- **No inappropriate usage of tags.** Keep tags on purpose and don't add other unrelated tags in your template description.
+- **No inappropriate usage of tags.** Keep tags on purpose and don't add other unrelated tags in your template description. They help people to find appropriate templates for specific usage.
 - **No inappropriate content.** Templates promoting a point of view or activities that we don't tolerate, including but not limited to: racism, harassment, suicide, self-harm, blasphemes or hate towards some communities.
 - **No personal information.** Don't include any personal information, such as your name, adress, phone number or credit card information. Don't use templates to dox anyone. Don't use our services with intent to shame or degrade another individual.
-- **No illegal activity.** Templates shouldn't promote any illegal activity, directly or indirectly. Don't help users to create malicious activities.
-- **Nothing against to Discord's Terms of Service and Discord's Community Guidelines is allowed.** Server templates and servers listed in descriptions of templates should comply to these rules and guidelines.
+- **No illegal activity.** Templates shouldn't promote any illegal activity, directly or indirectly. Don't help users to create and spread malicious activities.
+- **Nothing against to Discord's Terms of Service and Discord's Community Guidelines is allowed.** Server templates and servers listed in template descriptions should comply to Discord's rules and guidelines.
